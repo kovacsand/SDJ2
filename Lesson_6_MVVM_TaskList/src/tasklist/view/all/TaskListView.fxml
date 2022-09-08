@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tasklist.view.all.TaskListViewController">
+   <children>
+      <Button layoutX="127.0" layoutY="361.0" mnemonicParsing="false" onAction="#onAddButton" text="Add" />
+      <Button layoutX="450.0" layoutY="361.0" mnemonicParsing="false" onAction="#onNextTaskButton" text="Next Task" />
+      <TableView fx:id="tableView" prefHeight="356.0" prefWidth="600.0">
+        <columns>
+          <TableColumn fx:id="creatorColumn" prefWidth="135.33331298828125" text="Creator" />
+          <TableColumn fx:id="descriptionColumn" minWidth="0.0" prefWidth="284.6666564941406" text="Description" />
+            <TableColumn fx:id="dateColumn" prefWidth="179.3333740234375" text="Date" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

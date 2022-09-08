@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="timestamp.view.textchart.TextViewController">
+   <children>
+      <Label fx:id="eventLabel" layoutX="342.0" layoutY="117.0" text="Last updated:" />
+      <Button layoutX="159.0" layoutY="113.0" mnemonicParsing="false" onAction="#onUpdateButton" text="Update" />
+      <Label layoutX="181.0" layoutY="171.0" text="x" />
+      <Label layoutX="181.0" layoutY="224.0" text="y" />
+      <Label layoutX="181.0" layoutY="285.0" text="z" />
+      <TextField layoutX="345.0" layoutY="167.0" fx:id="xTextField" />
+      <TextField fx:id="yTextField" layoutX="345.0" layoutY="220.0" />
+      <TextField fx:id="zTextField" layoutX="345.0" layoutY="289.0" />
+      <Button layoutX="342.0" layoutY="338.0" mnemonicParsing="false" onAction="#onSaveButton" text="Save" />
+   </children>
+</AnchorPane>
