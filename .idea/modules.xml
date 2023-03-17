@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment_1/Assignment_1.iml" filepath="$PROJECT_DIR$/Assignment_1/Assignment_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_2/Assignment_2.iml" filepath="$PROJECT_DIR$/Assignment_2/Assignment_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_3/Assignment_3.iml" filepath="$PROJECT_DIR$/Assignment_3/Assignment_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment_4/Assignment_4.iml" filepath="$PROJECT_DIR$/Assignment_4/Assignment_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_01_State-Pattern/Lesson_01_State-Pattern.iml" filepath="$PROJECT_DIR$/Lesson_01_State-Pattern/Lesson_01_State-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_02_Observer_Pattern/Lesson_02_Observer_Pattern.iml" filepath="$PROJECT_DIR$/Lesson_02_Observer_Pattern/Lesson_02_Observer_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_02_Thermometer/Lesson_02_Thermometer.iml" filepath="$PROJECT_DIR$/Lesson_02_Thermometer/Lesson_02_Thermometer.iml" />

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="237.0" prefWidth="285.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.control.ControlViewController">
+   <children>
+      <Label layoutX="14.0" layoutY="14.0" text="Critical values" />
+      <Label layoutX="61.0" layoutY="46.0" text="LOW" />
+      <Label layoutX="60.0" layoutY="80.0" text="HIGH" />
+      <TextField fx:id="lowTextField" layoutX="103.0" layoutY="42.0" />
+      <TextField fx:id="highTextField" layoutX="103.0" layoutY="76.0" />
+      <Button layoutX="212.0" layoutY="119.0" mnemonicParsing="false" onAction="#onSaveButton" text="Save" />
+      <Label fx:id="heaterLabel" layoutX="14.0" layoutY="169.0" text="Radiator power level: " />
+      <Button layoutX="13.0" layoutY="200.0" mnemonicParsing="false" onAction="#onTurnDownButton" text="Turn down" />
+      <Button layoutX="89.0" layoutY="200.0" mnemonicParsing="false" onAction="#onTurnUpButton" text="Turn up" />
+      <Button layoutX="211.0" layoutY="200.0" mnemonicParsing="false" onAction="#onBackButton" text="Back" />
+   </children>
+</AnchorPane>
