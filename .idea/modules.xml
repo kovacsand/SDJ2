@@ -2,6 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lesson_01_State-Pattern/Lesson_01_State-Pattern.iml" filepath="$PROJECT_DIR$/Lesson_01_State-Pattern/Lesson_01_State-Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_02_Observer_Pattern/Lesson_02_Observer_Pattern.iml" filepath="$PROJECT_DIR$/Lesson_02_Observer_Pattern/Lesson_02_Observer_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_02_Thermometer/Lesson_02_Thermometer.iml" filepath="$PROJECT_DIR$/Lesson_02_Thermometer/Lesson_02_Thermometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_03_Threads/Lesson_03_Threads.iml" filepath="$PROJECT_DIR$/Lesson_03_Threads/Lesson_03_Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_04_Threads_2/Lesson_04_Threads_2.iml" filepath="$PROJECT_DIR$/Lesson_04_Threads_2/Lesson_04_Threads_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_05_MVVM_Charts/Lesson_05_MVVM_Charts.iml" filepath="$PROJECT_DIR$/Lesson_05_MVVM_Charts/Lesson_05_MVVM_Charts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_05_MVVM_Simple/Lesson_05_MVVM_Simple.iml" filepath="$PROJECT_DIR$/Lesson_05_MVVM_Simple/Lesson_05_MVVM_Simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_05_MVVM_Thermometer/Lesson_05_MVVM_Thermometer.iml" filepath="$PROJECT_DIR$/Lesson_05_MVVM_Thermometer/Lesson_05_MVVM_Thermometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_05_MVVM_UppercaseConverter/Lesson_05_MVVM_UppercaseConverter.iml" filepath="$PROJECT_DIR$/Lesson_05_MVVM_UppercaseConverter/Lesson_05_MVVM_UppercaseConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_05_MVVM_UppercaseTwoViews/Lesson_05_MVVM_UppercaseTwoViews.iml" filepath="$PROJECT_DIR$/Lesson_05_MVVM_UppercaseTwoViews/Lesson_05_MVVM_UppercaseTwoViews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_06_MVVM_TaskList/Lesson_06_MVVM_TaskList.iml" filepath="$PROJECT_DIR$/Lesson_06_MVVM_TaskList/Lesson_06_MVVM_TaskList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_06_MVVM_WithObserver_Thermometer/Lesson_06_MVVM_WithObserver_Thermometer.iml" filepath="$PROJECT_DIR$/Lesson_06_MVVM_WithObserver_Thermometer/Lesson_06_MVVM_WithObserver_Thermometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_06_MVVM_WithObserver_Timestamp/Lesson_06_MVVM_WithObserver_Timestamp.iml" filepath="$PROJECT_DIR$/Lesson_06_MVVM_WithObserver_Timestamp/Lesson_06_MVVM_WithObserver_Timestamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_07_Factory/Lesson_07_Factory.iml" filepath="$PROJECT_DIR$/Lesson_07_Factory/Lesson_07_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_07_Singleton_Multiton/Lesson_07_Singleton_Multiton.iml" filepath="$PROJECT_DIR$/Lesson_07_Singleton_Multiton/Lesson_07_Singleton_Multiton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_08_Sockets/Lesson_08_Sockets.iml" filepath="$PROJECT_DIR$/Lesson_08_Sockets/Lesson_08_Sockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_09_JUnit/Lesson_09_JUnit.iml" filepath="$PROJECT_DIR$/Lesson_09_JUnit/Lesson_09_JUnit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_10_Sockets_MVVM/Lesson_10_Sockets_MVVM.iml" filepath="$PROJECT_DIR$/Lesson_10_Sockets_MVVM/Lesson_10_Sockets_MVVM.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_10_Sockets_MVVM_Uppercase/Lesson_10_Sockets_MVVM_Uppercase.iml" filepath="$PROJECT_DIR$/Lesson_10_Sockets_MVVM_Uppercase/Lesson_10_Sockets_MVVM_Uppercase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_11_RMI/Lesson_11_RMI.iml" filepath="$PROJECT_DIR$/Lesson_11_RMI/Lesson_11_RMI.iml" />
@@ -9,23 +26,6 @@
       <module fileurl="file://$PROJECT_DIR$/Lesson_13_Strategy/Lesson_13_Strategy.iml" filepath="$PROJECT_DIR$/Lesson_13_Strategy/Lesson_13_Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_14_Producer_Consumer/Lesson_14_Producer_Consumer.iml" filepath="$PROJECT_DIR$/Lesson_14_Producer_Consumer/Lesson_14_Producer_Consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_15_Reader_Writer/Lesson_15_Reader_Writer.iml" filepath="$PROJECT_DIR$/Lesson_15_Reader_Writer/Lesson_15_Reader_Writer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_1_State_Pattern/Lesson_1_State_Pattern.iml" filepath="$PROJECT_DIR$/Lesson_1_State_Pattern/Lesson_1_State_Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_2_Observer_Pattern/Lesson_2_Observer_Pattern.iml" filepath="$PROJECT_DIR$/Lesson_2_Observer_Pattern/Lesson_2_Observer_Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_2_Thermometer/Lesson_2_Thermometer.iml" filepath="$PROJECT_DIR$/Lesson_2_Thermometer/Lesson_2_Thermometer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_3_Threads/Lesson_3_Threads.iml" filepath="$PROJECT_DIR$/Lesson_3_Threads/Lesson_3_Threads.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_4_Threads_2/Lesson_4_Threads_2.iml" filepath="$PROJECT_DIR$/Lesson_4_Threads_2/Lesson_4_Threads_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_5_MVVM_Charts/Lesson_5_MVVM_Charts.iml" filepath="$PROJECT_DIR$/Lesson_5_MVVM_Charts/Lesson_5_MVVM_Charts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_5_MVVM_Simple/Lesson_5_MVVM_Simple.iml" filepath="$PROJECT_DIR$/Lesson_5_MVVM_Simple/Lesson_5_MVVM_Simple.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_5_MVVM_Thermometer/Lesson_5_MVVM_Thermometer.iml" filepath="$PROJECT_DIR$/Lesson_5_MVVM_Thermometer/Lesson_5_MVVM_Thermometer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_5_MVVM_UppercaseConverter/Lesson_5_MVVM_UppercaseConverter.iml" filepath="$PROJECT_DIR$/Lesson_5_MVVM_UppercaseConverter/Lesson_5_MVVM_UppercaseConverter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_5_MVVM_UppercaseTwoViews/Lesson_5_MVVM_UppercaseTwoViews.iml" filepath="$PROJECT_DIR$/Lesson_5_MVVM_UppercaseTwoViews/Lesson_5_MVVM_UppercaseTwoViews.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_6_MVVM_TaskList/Lesson_6_MVVM_TaskList.iml" filepath="$PROJECT_DIR$/Lesson_6_MVVM_TaskList/Lesson_6_MVVM_TaskList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_6_MVVM_WithObserver_Thermometer/Lesson_6_MVVM_WithObserver_Thermometer.iml" filepath="$PROJECT_DIR$/Lesson_6_MVVM_WithObserver_Thermometer/Lesson_6_MVVM_WithObserver_Thermometer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_6_MVVM_WithObserver_Timestamp/Lesson_6_MVVM_WithObserver_Timestamp.iml" filepath="$PROJECT_DIR$/Lesson_6_MVVM_WithObserver_Timestamp/Lesson_6_MVVM_WithObserver_Timestamp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_7_Factory/Lesson_7_Factory.iml" filepath="$PROJECT_DIR$/Lesson_7_Factory/Lesson_7_Factory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_7_Singleton_Multiton/Lesson_7_Singleton_Multiton.iml" filepath="$PROJECT_DIR$/Lesson_7_Singleton_Multiton/Lesson_7_Singleton_Multiton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_8_Sockets/Lesson_8_Sockets.iml" filepath="$PROJECT_DIR$/Lesson_8_Sockets/Lesson_8_Sockets.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lesson_9_JUnit/Lesson_9_JUnit.iml" filepath="$PROJECT_DIR$/Lesson_9_JUnit/Lesson_9_JUnit.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDJ2.iml" filepath="$PROJECT_DIR$/SDJ2.iml" />
     </modules>
   </component>
