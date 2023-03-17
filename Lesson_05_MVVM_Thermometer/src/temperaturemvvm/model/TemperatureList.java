@@ -1,4 +1,6 @@
-package temperature.model;
+package temperaturemvvm.model;
+
+import temperature.model.Temperature;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package temperature.mediator;
+package temperaturemvvm.mediator;
 
 import external.NamedPropertyChangeSubject;
 import temperature.model.Temperature;

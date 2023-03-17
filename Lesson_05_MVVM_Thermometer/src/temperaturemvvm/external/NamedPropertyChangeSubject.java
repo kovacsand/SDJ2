@@ -1,4 +1,4 @@
-package external;
+package temperaturemvvm.external;
 
 import java.beans.PropertyChangeListener;
 

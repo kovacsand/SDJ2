@@ -1,4 +1,4 @@
-package temperature.model;
+package temperaturemvvm.model;
 public class Temperature
 {
    private String id;
